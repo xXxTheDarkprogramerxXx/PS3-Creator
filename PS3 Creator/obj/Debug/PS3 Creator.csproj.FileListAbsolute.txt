@@ -1,0 +1,9 @@
+c:\users\3de echelon\documents\visual studio 2013\Projects\PS3 Creator\PS3 Creator\bin\Debug\PS3 Creator.exe.config
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3 Creator.csprojResolveAssemblyReference.cache
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3_Creator.Form1.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3_Creator.Properties.Resources.resources
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3 Creator.csproj.GenerateResource.Cache
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\bin\Debug\PS3 Creator.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\bin\Debug\PS3 Creator.pdb
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3 Creator.exe
+C:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PS3 Creator\PS3 Creator\obj\Debug\PS3 Creator.pdb
